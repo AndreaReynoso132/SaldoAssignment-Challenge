@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SaldoAssignment-Challenge.props" />
+</Project>
